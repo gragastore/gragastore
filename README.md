@@ -1,16 +1,25 @@
-### Hi there 👋
+GRAGAS
+Tool Sederhana Untuk Crack Instagram
+Cara Install Scripts pkg update && pkg upgrade
+termux-setup-storage
+pkg install python
+pkg install git
+pip install stdiomask
+pip install requests
+pip install bs4
+pip install simplejson
+pip install requests
+pip install futures
+pip install rich
+pip install mechanize
+cd $HOME
+rm -rf 4MBF
+git clone https://github.com/aorec-xd/GXREX
+Cara Menjalankan Scripts
+cd $HOME
+cd GXREX
+python run.py
 
-<!--
-**gragastore/gragastore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lisensi:
+Email:trial@admin.com
+Pass:trial
